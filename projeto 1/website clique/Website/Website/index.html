@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>JAVA</title>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/site.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="pagina">
+
+        <div id="quadrado"></div>       <!-- "id" usado quando usarmos o "#" no CSS-->
+
+        <br />
+        <a href="#" class="btn btn-dark" onclick="trocar()">Clique aqui</a>
+
+    </div>
+
+   
+
+
+    <script src="js/jquery-3.0.0.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+    <script>
+
+        function trocar() {
+            var e = document.getElementById('quadrado')
+            if (e.style.display === 'block')        /* "===" passagem de valor (comparando) */ {
+                e.style.display = 'none';
+            }
+            else {
+                e.style.display = 'block';
+            }
+        }
+               
+    </script>
+
+</body>
+</html>

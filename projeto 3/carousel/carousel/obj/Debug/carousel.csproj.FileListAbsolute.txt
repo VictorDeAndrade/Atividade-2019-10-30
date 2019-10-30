@@ -1,0 +1,112 @@
+C:\Users\etec\Desktop\carousel\carousel\bin\carousel.dll.config
+C:\Users\etec\Desktop\carousel\carousel\bin\carousel.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\carousel.pdb
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\csc.exe
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\csc.exe.config
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\csc.rsp
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\csi.exe
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\csi.exe.config
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\csi.rsp
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.AppContext.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Console.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.IO.Compression.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Security.Claims.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.ValueTuple.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\vbc.exe
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\vbc.exe.config
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\vbc.rsp
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\VBCSCompiler.exe
+C:\Users\etec\Desktop\carousel\carousel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etec\Desktop\carousel\carousel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etec\Desktop\carousel\carousel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etec\Desktop\carousel\carousel\obj\Debug\carousel.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\carousel\carousel\obj\Debug\carousel.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\carousel\carousel\obj\Debug\carousel.csproj.CopyComplete
+C:\Users\etec\Desktop\carousel\carousel\obj\Debug\carousel.dll
+C:\Users\etec\Desktop\carousel\carousel\obj\Debug\carousel.pdb
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\carousel.dll.config
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\carousel.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\carousel.pdb
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\csc.exe
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\csc.exe.config
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\csc.rsp
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\csi.exe
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\csi.exe.config
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\csi.rsp
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.AppContext.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Collections.Immutable.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Console.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.IO.Compression.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.IO.FileSystem.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.IO.Pipes.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Reflection.Metadata.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Security.AccessControl.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Security.Claims.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Security.Principal.Windows.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.ValueTuple.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Xml.XPath.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\vbc.exe
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\vbc.exe.config
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\vbc.rsp
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\VBCSCompiler.exe
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\roslyn\VBCSCompiler.exe.config
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\obj\Debug\carousel.csprojAssemblyReference.cache
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\obj\Debug\carousel.csproj.CoreCompileInputs.cache
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\obj\Debug\carousel.csproj.CopyComplete
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\obj\Debug\carousel.dll
+E:\AULAS ETEC\Marcio\09-10\carousel\carousel\obj\Debug\carousel.pdb
